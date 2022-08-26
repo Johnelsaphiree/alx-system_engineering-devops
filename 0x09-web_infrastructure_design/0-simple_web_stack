@@ -1,5 +1,5 @@
-https://miro.com/---
-Answers:
+https://miro.com/app/board/uXjVPcGkdhs=/?share_link_id=36280719144
+##Answers:
 	1. Server is a computer, that has it's own, hard disk, CPU, RAM. What
         separates server from your computer is that server gives service to
         other computers, whether it is to store files, to use email or to connect
@@ -26,7 +26,7 @@ Answers:
         6. The server uses IP address to communicate with the client using
         protocols like TCP\IP, HTTP.
 
-	Issues with the infrastructure:
+##	Issues with the infrastructure:
         1. It has SPOF. This can be with the client software or hardware, the network
         connection or with a single server. It is a single server, malfunction in its
         hardware or software or even issues in the data center can fail the entire system.

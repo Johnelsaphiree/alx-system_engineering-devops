@@ -1,6 +1,6 @@
-https://www.miro.com/-----
+https://miro.com/welcomeonboard/ZXFGNTRTZ1FzYThBbEgyYUgyWTJLemNjUGtQNWlCd2FwRGlIbHdaTzZ0RHNHd1BWZ1dHVEZHM3d0eE5hVlRHZ3wzMDc0NDU3MzYzMTM3MDI1OTA5?share_link_id=858376132803
 
-Answer:
+##Answer:
 	We now have 3 servers. We distributed the application server, webserver
 	and database with in their own server. Now they became a cluster server
 	which is what happens when a group of servers works as a unit. 

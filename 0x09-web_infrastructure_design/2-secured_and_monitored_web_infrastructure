@@ -1,5 +1,5 @@
-https://www.miro.com/----
-Answer:
+https://miro.com/app/board/uXjVPcEn0zo=/?share_link_id=114772613564
+##Answer:
 	1. We added firewalls to control traffic and for better security.
         We also added monitoring tools, that will monitor our application and
         also our server for a better performance and data collector.
@@ -29,7 +29,7 @@ Answer:
 	see if it can handle the traffic and if it is scalable enough for the 
 	incoming traffic.
 
-	Issues with the infrastructure:
+	##Issues with the infrastructure:
         1. If one applies for SSL termination it will affect sensitive data
         while making transactions because transaction should be made in a
         secured connection.

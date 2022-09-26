@@ -25,7 +25,7 @@ file_line { 'b':
 }
 
 file { '/var/www/html/index.html':
-  content => 'Best School',
+  content => 'Alx School',
   require => Package['nginx'],
 }
 
